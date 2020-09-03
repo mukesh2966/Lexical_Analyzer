@@ -1,0 +1,16 @@
+program test4 ::
+
+var x , y , z : int ;
+var k , l, m :bool;
+
+^
+
+{
+k:= tt;
+x:= ~4;
+y:= +2;
+if (x/y=~2) then {write (~2);} else {write ~1;} endif;
+
+
+
+}

@@ -1,0 +1,21 @@
+program test5 ::
+
+??
+^^
+@
+$
+#
+
+var x,y, :int;
+var k ,l : bool;
+
+{
+k:= tt;
+l:= ff;
+x:=+100;
+y:=~200;
+
+if k then {write x;} else {write ~1000;} endif;
+
+
+}

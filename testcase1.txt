@@ -1,0 +1,17 @@
+program test1 :: 
+
+$@
+?
+#$
+
+var x , y , z : int;
+var k : bool;
+
+{
+x := +3;
+y := ~4;
+
+if x+y=~1 then {z:=+400;} else {z:=+500;} endif;
+
+
+}

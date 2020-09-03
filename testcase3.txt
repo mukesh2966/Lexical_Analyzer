@@ -1,0 +1,15 @@
+program test3 ::
+
+var x , y, z : int ;
+var k , l , m : bool;
+
+@$
+
+{
+
+k:= tt;
+x := ~4;
+y:=~100;
+while (k) do {if x=+1 then {k:=ff;y:=+100} else {x:=x+ +1;} endif;} endwh; 
+
+}
